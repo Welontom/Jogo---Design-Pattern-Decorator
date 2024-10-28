@@ -30,5 +30,4 @@ public class Anel : GuerreiroDecorator
     {
         return true;
     }
-    C:\Users\welin\source\repos\ConsoleApp1\ConsoleApp1\Anel.cs
 }
